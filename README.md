@@ -1,2 +1,3 @@
-# demo-java
-demo-java
+# jenkins-maven - project
+
+# sudo usermod -aG docker jenkins
